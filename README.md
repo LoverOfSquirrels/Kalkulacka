@@ -1,1 +1,2 @@
-# Very basic calculator in Czech
+# Velice základní kalkulačka v Javě.
+
